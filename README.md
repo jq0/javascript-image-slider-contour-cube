@@ -1,6 +1,6 @@
 # Contour design and Cube transition demo
 
-[This demo](http://wowslider.com/javascript-image-slider-contour-cube-demo.html) is a html5 gallery with stunning Contour transition
+[This demo](http://wowslider.com/javascript-image-slider-contour-cube-demo.html) is a javascript image slider with stunning Contour transition
 and awesome Cube template.  
 
 [Download now](http://wowslider.com/) or see more [live demos..](http://wowslider.com/demo.html)
