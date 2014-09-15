@@ -11,7 +11,7 @@ and awesome Cube template.
   
 #### Improved Mobile View
 Receive an auto-magically optimized version of your carousel for mobile or portable in only one click, allowing your site viewers watch the same design and information on all mobiles.
-
+ 
 #### Picture Builder
 With over 17 different features, the innovative picture builder helps you spin, crop and re-size your photos to obtain outstanding results.
 
